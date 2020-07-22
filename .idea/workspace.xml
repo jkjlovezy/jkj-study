@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c2cf04c2-ee74-4487-865a-0c5d7a03776a" name="Default Changelist" comment="enum用法">
-      <change beforePath="$PROJECT_DIR$/enum-demo/src/main/java/com/jkj/study/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/enum-demo/src/main/java/com/jkj/study/App.java" afterDir="false" />
-    </list>
+    <list default="true" id="c2cf04c2-ee74-4487-865a-0c5d7a03776a" name="Default Changelist" comment="enum用法" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +36,7 @@
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.38235295" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -131,7 +129,7 @@
       <updated>1595409758438</updated>
       <workItem from="1595409761344" duration="157000" />
       <workItem from="1595409962666" duration="1711000" />
-      <workItem from="1595412371549" duration="1297000" />
+      <workItem from="1595412371549" duration="1724000" />
     </task>
     <task id="LOCAL-00001" summary="enum用法">
       <created>1595412702224</created>
